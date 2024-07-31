@@ -2,7 +2,7 @@
 - 👀 I’m interested in development 
 - 🌱 I’m currently learning Java , IOT , Artificial intelligence , Cybersecurity 
 - 💬 Ask me about C , C++, Python, HTML, CSS, JavaScript
-- 📫 How to reach me @samrudhi.gholba.4203@gmail.com
+- 📫 How to reach me samrudhi.gholba.4203@gmail.com
 
 
 <!---
